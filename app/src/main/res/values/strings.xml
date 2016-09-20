@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="no_weather_item">Aucune ville ajoutée</string>
+    <string name="humidity">Humidité :</string>
+    <string name="wind">Vent :</string>
+    <string name="precipitation">Précipitation :</string>
+    <string name="add_city_title">Ajouter une ville</string>
+    <string name="city">Ville</string>
+    <string name="add">Ajouter</string>
+    <string name="cancel">Annuler</string>
+    <string name="error_msg_internet">Une erreur est survenue :( , vérifiez votre connexion internet !</string>
+    <string name="again">Ré-essayer</string>
+    <string name="country_not_found">Ville introuvable</string>
+</resources>
